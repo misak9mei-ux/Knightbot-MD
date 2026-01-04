@@ -170,15 +170,15 @@ async function helpCommand(sock, chatId, message) {
 ╚═══════════════════╝
 
 ╔═══════════════════╗
-📥 *Downloader*:
-║ ➤ .play <song_name>
-║ ➤ .song <song_name>
-║ ➤ .spotify <query>
-║ ➤ .instagram <link>
-║ ➤ .facebook <link>
-║ ➤ .tiktok <link>
-║ ➤ .video <song name>
-║ ➤ .ytmp4 <Link>
+📥 أوامر التنزيل:
+║ ➤ .play <song_name> — تشغيل أو تنزيل مقطع صوتي من يوتيوب
+║ ➤ .song <song_name> — تنزيل أغنية
+║ ➤ .spotify <query> — جلب مقاطع/معلومات من سبوتيفاي
+║ ➤ .instagram <link> — تنزيل محتوى من إنستاجرام
+║ ➤ .facebook <link> — تنزيل فيديو من فيسبوك
+║ ➤ .tiktok <link> — تنزيل فيديو من تيك توك
+║ ➤ .video <song name> — تنزيل فيديو لأغنية
+║ ➤ .ytmp4 <Link> — تنزيل فيديو يوتيوب بصيغة MP4
 ╚═══════════════════╝
 
 ╔═══════════════════╗
